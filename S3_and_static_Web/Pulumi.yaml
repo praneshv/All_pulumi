@@ -1,0 +1,6 @@
+name: MyFirstPulumi
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Python Test
