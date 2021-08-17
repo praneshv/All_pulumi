@@ -1,0 +1,6 @@
+name: EC2_provision
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: to provide EC2 and connect
